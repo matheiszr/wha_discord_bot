@@ -87,7 +87,8 @@
   <ItemGroup>
     <Compile Include="Bots\BotBase.cs" />
     <Compile Include="Bots\Glados.cs" />
-    <Compile Include="Modules\TextBaseCommands.cs" />
+    <Compile Include="Modules\TextChannelCommands.cs" />
+    <Compile Include="Modules\VoiceChannelCommands.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
