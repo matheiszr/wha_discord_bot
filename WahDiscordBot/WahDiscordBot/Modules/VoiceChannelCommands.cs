@@ -7,6 +7,7 @@ namespace WahDiscordBot.Modules
 {
     public class VoiceChannelCommands : ModuleBase<SocketCommandContext>
     {
+        /*
         [Command("join", RunMode = RunMode.Async)]
         public async Task JoinVoiceChannel(IVoiceChannel channel = null)
         {
@@ -27,5 +28,6 @@ namespace WahDiscordBot.Modules
             }
 
         }
+        */
     }
 }
