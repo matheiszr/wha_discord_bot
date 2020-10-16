@@ -98,7 +98,7 @@ namespace WahDiscordBot.Modules
                 return;
 
             var up = new Emoji("\uD83D\uDC4D");
-            var off = new Emoji("\uD83D\uDC4E");
+            var off = new Emoji("\uD83D\uDCF4");
             string options = up + " - Jövök!" + Environment.NewLine;
             options += off + " - Off!";
 
